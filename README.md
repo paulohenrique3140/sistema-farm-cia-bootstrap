@@ -1,4 +1,4 @@
-# sistema-farm-cia-bootstrap
+# Projeto Tudo de Bom - Interface de um sistema de uma farmácia
 
 Interface desenvolvida para implementação de um projeto de uma API com Spring Boot Java.
 
